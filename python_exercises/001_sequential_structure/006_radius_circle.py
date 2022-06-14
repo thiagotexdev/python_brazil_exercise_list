@@ -1,3 +1,5 @@
+print('Calculating circle area')
+
 pi = 3.14
 radius = float(input('Enter the radius of a circle: '))
 area = pi * (radius ** 2)
