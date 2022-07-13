@@ -3,7 +3,7 @@ print(f'The letter informed was: {gender} ')
 
 
 if(gender == 'M'):
-    print(f'The gender informed was masculine ')
+    print('The gender informed was masculine ')
 elif(gender == 'F'):
     print('The gender informed was feminine' )
 elif(gender == 'O'):
