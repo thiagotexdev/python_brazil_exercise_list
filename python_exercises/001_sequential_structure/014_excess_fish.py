@@ -1,4 +1,4 @@
-print('Calculate excess weight of fishing')
+print('Calculate Excess Weight of Fishing')
 
 fishweight = float(input('Enter a weight of fish greater than 50 kg: '))
 weightlimit = 50

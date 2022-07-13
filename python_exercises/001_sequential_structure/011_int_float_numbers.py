@@ -1,4 +1,4 @@
-print('Two integer numbers and one float number calculator')
+print('Two Integer Numbers And One Float Number Calculator')
 
 print(' ------------------------------ ')
 num1 = int(input('Enter a first number: '))

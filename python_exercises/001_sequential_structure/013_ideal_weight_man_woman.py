@@ -1,4 +1,4 @@
-print('Ideal weight person calculator per gender')
+print('Ideal Weight Person Calculator Per Gender')
 
 perheight = float(input('''Enter the person's height: '''))
 

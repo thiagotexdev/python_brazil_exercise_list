@@ -1,4 +1,4 @@
-print('Calculating circle area')
+print('Calculating Circle Area')
 
 pi = 3.14
 radius = float(input('Enter the radius of a circle: '))

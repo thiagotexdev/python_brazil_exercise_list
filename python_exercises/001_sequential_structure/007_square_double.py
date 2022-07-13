@@ -1,5 +1,5 @@
-print('Area of square calculator')
-print('And show twice the area value')
+print('Area of Square Calculator')
+print('And Show Twice The Area Value')
 
 sbase = float(input('Enter the base value: '))
 sheight = float(input('Enter the height value: '))

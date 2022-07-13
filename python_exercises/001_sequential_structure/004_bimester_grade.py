@@ -1,3 +1,5 @@
+print('Bimester Calculator')
+
 note_1 = float(input('Enter a first bimonthly note: '))
 note_2 = float(input('Enter a second bimonthly note: '))
 note_3 = float(input('Enter a third bimonthly note: '))
